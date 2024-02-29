@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/openzoom/deepzoom.py.git
 cd deepzoom.py
-python setup.py install
+pip install .
 ```
 
 ## Development
